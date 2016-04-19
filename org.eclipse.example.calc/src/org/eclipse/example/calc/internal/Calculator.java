@@ -30,7 +30,6 @@ public class Calculator {
 
 	private float value;
 	
-	TESTERRORxxx
 
 	public static String NAME = "Simple Calculator";
 
@@ -43,8 +42,9 @@ public class Calculator {
 		new Equals();
 		new Minus();
 		new Plus();
-		new Square();
 		new Divide();
+		new Square();;
+		new Divide();;;
 		new Power();
 		
 	}
