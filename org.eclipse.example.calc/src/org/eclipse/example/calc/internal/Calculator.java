@@ -28,6 +28,8 @@ public class Calculator {
 	private boolean clearText;
 
 	private float value;
+	
+	TESTERRORxxx
 
 	public static String NAME = "Simple Calculator";
 
